@@ -1,0 +1,10 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sat Jun 20 11:02:23 CST 2015
+json-lib-2.4-sources.jar>central=
+json-lib-2.4-javadoc.jar>central=
+json-lib-2.4-jdk15.jar>central=
+json-lib-2.4-sources.pom>central=
+json-lib-2.4-jdk17.jar>central=
+json-lib-2.4.pom>nexus=
+json-lib-2.4-jdk15.jar>nexus=
+json-lib-2.4.pom>central=

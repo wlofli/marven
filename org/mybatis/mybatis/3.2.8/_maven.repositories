@@ -1,0 +1,8 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sat Jun 20 10:58:59 CST 2015
+mybatis-3.2.8.pom>central=
+mybatis-3.2.8-sources.jar>central=
+mybatis-3.2.8-javadoc.jar>central=
+mybatis-3.2.8-sources.jar>nexus=
+mybatis-3.2.8.pom>nexus=
+mybatis-3.2.8-javadoc.jar>nexus=

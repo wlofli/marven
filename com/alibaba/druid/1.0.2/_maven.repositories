@@ -1,0 +1,9 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sat Jun 20 10:59:06 CST 2015
+druid-1.0.2.jar>nexus=
+druid-1.0.2.pom>nexus=
+druid-1.0.2-javadoc.jar>nexus=
+druid-1.0.2-javadoc.jar>central=
+druid-1.0.2.jar>central=
+druid-1.0.2-sources.jar>central=
+druid-1.0.2.pom>central=

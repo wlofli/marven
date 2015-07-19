@@ -1,0 +1,8 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sat Jun 20 10:58:57 CST 2015
+junit-4.11.pom>central=
+junit-4.11-sources.jar>central=
+junit-4.11-javadoc.jar>central=
+junit-4.11-sources.jar>nexus=
+junit-4.11.pom>nexus=
+junit-4.11-javadoc.jar>nexus=

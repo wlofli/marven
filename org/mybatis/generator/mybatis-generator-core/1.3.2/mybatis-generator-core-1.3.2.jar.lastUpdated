@@ -1,0 +1,7 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sat Jun 20 10:26:32 CST 2015
+default-http\://maven.oschina.net/content/groups/public/.lastUpdated=1434767029764
+http\://mvnrepository.com/.error=
+http\://mvnrepository.com/.lastUpdated=1434766964448
+http\://repo1.maven.org/maven2/.lastUpdated=1434767192854
+http\://maven.oschina.net/content/groups/public/.error=Could not transfer artifact org.mybatis.generator\:mybatis-generator-core\:jar\:1.3.2 from/to nexus (http\://maven.oschina.net/content/groups/public/)\: No response received after 60000

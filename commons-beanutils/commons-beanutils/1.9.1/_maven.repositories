@@ -1,0 +1,9 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sat Jun 20 10:36:15 CST 2015
+commons-beanutils-1.9.1.pom>central=
+commons-beanutils-1.9.1.pom>nexus=
+commons-beanutils-1.9.1-sources.jar>nexus=
+commons-beanutils-1.9.1.jar>nexus=
+commons-beanutils-1.9.1-javadoc.jar>central=
+commons-beanutils-1.9.1-sources.jar>central=
+commons-beanutils-1.9.1.jar>central=

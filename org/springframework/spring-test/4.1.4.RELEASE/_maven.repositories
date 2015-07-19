@@ -1,0 +1,10 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sat Jun 20 10:59:05 CST 2015
+spring-test-4.1.4.RELEASE.pom>nexus=
+spring-test-4.1.4.RELEASE.jar>nexus=
+spring-test-4.1.4.RELEASE-sources.jar>nexus=
+spring-test-4.1.4.RELEASE-sources.jar>central=
+spring-test-4.1.4.RELEASE.jar>central=
+spring-test-4.1.4.RELEASE-javadoc.jar>nexus=
+spring-test-4.1.4.RELEASE-javadoc.jar>central=
+spring-test-4.1.4.RELEASE.pom>central=

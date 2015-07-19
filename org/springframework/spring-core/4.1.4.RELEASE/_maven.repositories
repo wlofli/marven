@@ -1,0 +1,9 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sat Jun 20 10:35:36 CST 2015
+spring-core-4.1.4.RELEASE.pom>nexus=
+spring-core-4.1.4.RELEASE.jar>nexus=
+spring-core-4.1.4.RELEASE.jar>central=
+spring-core-4.1.4.RELEASE-sources.jar>nexus=
+spring-core-4.1.4.RELEASE.pom>central=
+spring-core-4.1.4.RELEASE-javadoc.jar>central=
+spring-core-4.1.4.RELEASE-sources.jar>central=
