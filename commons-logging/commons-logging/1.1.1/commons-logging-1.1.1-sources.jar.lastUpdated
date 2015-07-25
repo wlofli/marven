@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat Jul 25 10:55:15 CST 2015
+http\://maven.oschina.net/content/groups/public/.lastUpdated=1437792915733
+http\://mvnrepository.com/.error=Could not transfer artifact commons-logging\:commons-logging\:jar\:sources\:1.1.1 from/to central (http\://mvnrepository.com/)\: connect timed out
+@default-http\://mvnrepository.com/.lastUpdated=1437792913919
